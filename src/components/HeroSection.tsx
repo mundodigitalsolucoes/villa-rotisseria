@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ShoppingBag, MessageCircle, Phone } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/logo.svg";
 
 const HeroSection = () => {
   return (
